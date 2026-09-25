@@ -1,6 +1,7 @@
 # Weed Detection with RF-DETR
 
-This project demonstrates how to fine-tune an RF-DETR (Real-time Detection Transformer) model on a custom weed detection dataset using HuggingFace Transformers, Roboflow, and Weights & Biases (W&B).
+This project demonstrates how to fine-tune an RF-DETR (Real-time Detection Transformer) model on a custom weed detection dataset using HuggingFace Transformers, Roboflow, and Weights & Biases (W&B). 
+*Notebook*: https://colab.research.google.com/drive/17qp86__5waQNhgb6oadyiIXPdealv-4C#scrollTo=ld2wlNkbRPns&uniqifier=8
 
 ## Table of Contents
 - [Project Overview](#project-overview)
